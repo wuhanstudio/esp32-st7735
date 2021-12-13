@@ -17,6 +17,6 @@ This project displays images remotely on ESP32 with ST7735 TFT Screen using Micr
 python pc_client.py --ip 192.168.199.142 --port 9191
 ```
 
-By default, this displays minions.jpg on the ESP32 board.
+By default, this displays minions.jpg on the ESP32 board remotely **using Wifi**.
 
 ![](demo.jpg)
